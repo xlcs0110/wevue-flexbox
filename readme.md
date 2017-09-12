@@ -19,10 +19,16 @@ Vue.js 2.0和Wevue.js 2的Flexbox组件,基于[flex.css](https://github.com/lzxb
 
 #### 引用 (require)
     
-    //Vue.js
+    //Vue component
     import {Flexbox,FlexboxItem} from 'wevue-flexbox'
     Vue.component('flexbox',Flexbox)
     Vue.component('flexbox-item',FlexboxItem) 
+    //Vue plugin
+    import WevueFlexbox from 'wevue-flexbox'
+    //or
+    var WevueFlexbox = require('wevue-flexbox')
+    //use
+    Vue.use(WevueFlexbox)
 
 
 #### 使用 (example)
