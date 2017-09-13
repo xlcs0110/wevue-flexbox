@@ -13,7 +13,7 @@ Vue.js 2.0和Wevue.js 2的Flexbox组件,基于[flex.css](https://github.com/lzxb
 
 ### Vue.js用法
 
-#### 安装 (install)
+#### 安装 ([npm install](https://github.com/xlcs0110/wevue-flexbox))
     npm i wevue-flexbox --save  //Vue.js
     cd wevue_project && wevue add wevue-flexbox  //Wevue.js
 
