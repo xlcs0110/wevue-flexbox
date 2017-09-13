@@ -1,12 +1,20 @@
 {
   "name": "wevue-flexbox",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "git":"https://github.com/xlcs0110/wevue-flexbox",
   "description": "flexbox component for Vue 2.0 && Wevue 2.0",
   "main": "entry.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlcs0110/wevue-flexbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xlcs0110/wevue-flexbox/issues"
+  },
+  "homepage": "https://github.com/xlcs0110/wevue-flexbox#readme",
   "keywords": [
     "vue",
     "flex",

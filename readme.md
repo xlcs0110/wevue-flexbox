@@ -5,6 +5,10 @@ Vue.js 2.0和Wevue.js 2的Flexbox组件,基于[flex.css](https://github.com/lzxb
 
 > 同时适用于 [wevue](http://wevue.daocms.io) 组件和 [vue](https://cn.vuejs.org/) 单文件组件
 
+## npm
+
+[npm wevue-flex](https://www.npmjs.com/package/wevue-flexbox)
+
 ## 例子 (Demo)
 
 [flex.css官方demo](http://lzxb.name/flex.css/)
@@ -13,7 +17,7 @@ Vue.js 2.0和Wevue.js 2的Flexbox组件,基于[flex.css](https://github.com/lzxb
 
 ### Vue.js用法
 
-#### 安装 ([npm install](https://github.com/xlcs0110/wevue-flexbox))
+#### 安装 (npm install)
     npm i wevue-flexbox --save  //Vue.js
     cd wevue_project && wevue add wevue-flexbox  //Wevue.js
 
