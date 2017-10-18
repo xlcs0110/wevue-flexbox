@@ -1,5 +1,5 @@
 <template>
-    <div :flex-box="size">
+    <div :flex-box="flexBox||size">
         <slot></slot>
     </div>
 </template>
@@ -9,6 +9,10 @@
     export default {
         props:{
             size:{
+                type:String,
+                default:null
+            },
+            flexBox:{
                 type:String,
                 default:null
             }
