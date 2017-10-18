@@ -1,6 +1,6 @@
 {
   "name": "wevue-flexbox",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "git":"https://github.com/xlcs0110/wevue-flexbox",
   "description": "flexbox component for Vue 2.0 && Wevue 2.0",
   "main": "entry.js",
